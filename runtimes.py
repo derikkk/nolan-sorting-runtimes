@@ -2,7 +2,7 @@
 '''
 A simple program for measuring the runtime of sorting algorithms.
 '''
-
+#adding comment for lab requirement
 import timeit
 import random
 
